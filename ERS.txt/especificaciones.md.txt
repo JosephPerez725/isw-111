@@ -1,0 +1,25 @@
+# Especificaciones de Requerimientos de Software (ERS)
+
+## Nombre del Estudiante:
+Alberth Said Joseph Perez Nina
+
+## Enlace al Repositorio de GitHub:
+https://github.com/TU_USUARIO/ERS-especificaciones
+
+ 1. Introducción
+Este documento describe los requerimientos del sistema que se va a desarrollar.
+
+ 2. Alcance
+El sistema permitirá registrar usuarios, gestionar datos y generar reportes. No incluirá funciones de facturación.
+
+ 3. Requerimientos Funcionales
+- **RF1**: Registrar usuarios.
+- **RF2**: Editar perfiles.
+- **RF3**: Generar reportes.
+
+ 4. Requerimientos No Funcionales
+- **RNF1**: El sistema debe estar disponible 24/7.
+- **RNF2**: Debe ser accesible desde dispositivos móviles.
+
+ 5. Conclusión
+Este documento sienta las bases para el desarrollo del sistema.
